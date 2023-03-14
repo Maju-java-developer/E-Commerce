@@ -1,0 +1,9 @@
+.setCurser{
+    cursor: pointer !important;
+    color: #FF7788 !important;
+}
+
+.setCurser:hover{
+    color: #FFF !important;
+}
+
